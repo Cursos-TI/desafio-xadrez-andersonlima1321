@@ -18,8 +18,8 @@ printf("Desafio xadrez, nivel novato.\n");
     while(num < 5)
     {  
         //esse printf determina a direcao tomada pelo bispo
-       printf("cima/direita\n",num);
-       num++;
+        printf("cima, direira\n", num);
+        num++;
 
       
     }//esse printf informa em qual direcao o bispo se movel
